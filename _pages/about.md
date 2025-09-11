@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Despre mine
+title: Who am I?
 permalink: /about/
 ---
 I write for pleasure and self-development. I thing Lady Wisdom from the Bible is or should be the teacher of us all. 
