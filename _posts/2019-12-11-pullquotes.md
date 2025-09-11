@@ -2,10 +2,13 @@
 layout: post
 title:  Haleuluia
 categories: [HTML,Code]
-excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
+excerpt: Și la fel și aici, voi învăța până și prostiile astea. Solemn! In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
 ---
 
 Iată-ma. și Gata
+
+
+Ar trebui să mai apară și linia asta, dacă nu mă înșel. Îmi promit solemn că dacă merge chestia asta, voi scrie pe acest blog în fiecare săptămână, în limba engleză, și voi învăța constant. 
 
 In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.
 
