@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Dacă va fi, va fi"
+title: "Whatever will be, will be"
 categories: Miscellaneous
 ---
 Alteori, înving.
+
