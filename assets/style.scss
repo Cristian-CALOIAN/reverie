@@ -1160,3 +1160,19 @@ blockquote:hover {
 //@import "highlights";
 @import "darcula";
 @import "svg-icons";
+
+blockquote {
+  color: #111;                /* Black text */
+  background: #fff;           /* White background */
+  border-left: 6px solid #b0b0b0;
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  font-style: italic;
+  font-size: 1.2em;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+  border-radius: 6px;
+  transition: background 0.3s;
+}
+blockquote:hover {
+  background: #f6f6f8;
+}
