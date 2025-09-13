@@ -12,3 +12,6 @@ We could admit that _too much_ digital is detrimental for our lives, but that do
 <blockquote>
   I think that i should develop my skills here.
 </blockquote>
+<blockquote>
+  Of course I should!
+</blockquote>
