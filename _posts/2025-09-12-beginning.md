@@ -9,3 +9,6 @@ This is an ancient thought. It may inspire us for choosing from the multifarious
 Nevertheless, all this could be frustrating and, even worse, useless. Because the purpose of such ludite atitude is none other than _trying to prove_ that we refuse the digital environment, but it fails to replace this offer with a substantial lifestyle, with a workable definition of what a human being should be. 
 
 We could admit that _too much_ digital is detrimental for our lives, but that does not say anything about what our lives should _look like_. 
+<blockquote>
+  I think that i should develop my skills here.
+</blockquote>
