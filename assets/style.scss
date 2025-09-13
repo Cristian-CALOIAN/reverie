@@ -1207,3 +1207,18 @@ blockquote {
 blockquote:hover {
   background: #f8fafc;
 }
+blockquote {
+  color: #222;
+  background: #fff;
+  border-left: 4px solid #e2e8f0;
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  font-style: italic;
+  font-size: 1.05em;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(30,34,90,0.03);
+  transition: background 0.2s;
+}
+blockquote:hover {
+  background: #f8fafc;
+}
